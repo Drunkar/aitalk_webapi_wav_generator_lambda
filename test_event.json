@@ -1,0 +1,12 @@
+{
+  "aitalk_username": "<YOUR_USERNAME>",
+  "aitalk_password": "<YOUR_PASSWORD>",
+  "aitalk_speaker_name": "nozomi_emo",
+  "aitalk_volume": "2.00",
+  "aitalk_speed": "1.20",
+  "aitalk_pitch": "0.90",
+  "aitalk_range": "2.00",
+  "text": "戦争に負けたから堕ちるのではないのだ。人間だから堕ちるのであり、生きているから堕ちるだけだ。",
+  "filename": "voice.wav",
+  "bucket": "<YOUR_BUCKET_NAME>"
+}
